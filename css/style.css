@@ -110,7 +110,6 @@ header a:hover{
 }
 
 #showcase-about h1{
-	
 	font-family: 'Bungee';
 	font-size:40px;
 	margin-bottom:10px;
@@ -202,7 +201,11 @@ footer{
 		margin:40px;
 		font-size:30px;
 	}
-	
+
+	#showcase-about h2{
+		display:none;
+	}
+
 	#newsletter button, .quote button{
 		display:block;
 		width:100%;
