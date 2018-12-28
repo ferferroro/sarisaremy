@@ -198,10 +198,11 @@ footer{
 		padding-bottom:20px;
 	}
 
-	#showcase h1{
+	#showcase h1, #showcase-about h1{
 		margin:40px;
+		font-size:30px;
 	}
-
+	
 	#newsletter button, .quote button{
 		display:block;
 		width:100%;
@@ -211,4 +212,6 @@ footer{
 		width:100%;
 		margin-bottom:5px;
 	}
+
+	
 }
